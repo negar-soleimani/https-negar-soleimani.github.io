@@ -33,20 +33,20 @@ email: negarsoleimani76@gmail.com
 darkmode: false
 
 # Social links
-twitter_username: negar-soleimani
+# twitter_username: negar-soleimani
 github_username: negar-soleimani
-medium_username: negar-soleimani
+# medium_username: negar-soleimani
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: soran-ghaderi
+linkedin_username: negar-soleimani
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
-orcid_username: 0009-0004-6564-4517
+orcid_username: 0009-0002-5993-3801
 
 # Additional icon links
 additional_links:
@@ -150,7 +150,7 @@ education_title: Education #(Use this to override about education section title)
 # more content
 more_content: | # this will include new lines to allow paragraphs
   
-  I'm Soran Ghaderi holding a BEng. in computer software engineering since 2018. My academic passions encompass the
+  I'm NG holding a BEng. in computer software engineering since 2018. My academic passions encompass the
   cutting-edge research conducted in the fields of machine learning; particularly, methods that are
   trying to understand and represent the surrounding world optimally.<br>
 
