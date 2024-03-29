@@ -1,6 +1,6 @@
 ---
 layout: post
-author: soran
+author: negar
 title: test title
 show_downloads: true
 categories: [tutorial ]
