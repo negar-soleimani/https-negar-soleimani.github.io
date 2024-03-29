@@ -1,0 +1,213 @@
+# Site
+
+#description: "Jekyll template, Medium styled, free for bloggers."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: '/'
+google_analytics: 'UA-46278016-1'
+#disqus: 'demowebsite'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+include:
+  - _pages
+  - _static
+#permalink: /:title/
+
+
+
+
+
+# --------------------------------------------------------------------------------------
+
+repository: https://github.com/negar-soleimani/negar-soleimani.github.io
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Negar Soleimani
+title: Master's Student in AI
+email: negarsoleimani76@gmail.com
+#phone: Your phone number (optional)
+#website: https://negar-soleimani.github.io
+
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: negar-soleimani
+github_username: negar-soleimani
+medium_username: negar-soleimani
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: soran-ghaderi
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+orcid_username: 0009-0004-6564-4517
+
+# Additional icon links
+additional_links:
+  #- title: kaggle
+  #  icon: fa-kaggle
+  #  url: https://www.kaggle.com/negar-soleimani
+
+  - title: Medium
+    icon: fa-medium
+    url: https://negar-soleimani.medium.com/
+
+#- title: another link
+#icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpeg #Directory of profile image (eg. images/profile.jpg)
+about_content: | # this will include new lines to allow paragraphs
+  I am a Master's student pursuing a specialization in Artificial Intelligence at the University of Essex. 
+  With over three years of hands-on experience, my passion lies in the realm of deep learning and autonomous agents. 
+  
+  I am eager to explore the potential of attention mechanisms in enhancing the performance of multimodal models in 
+  representation learning, reasoning, and zero-shot learning within uncertain environments.
+  
+  Parallel to this, I have actively engaged in freelance work and collaborated with research teams, and have made 
+  contributions to the open-source community.
+  
+  
+  My ultimate objective is to study the cognitive mechanisms underlying intelligence. Specifically, 
+    - <mark>attention mechanisms</mark><br>
+    - <mark>representation learning</mark><br>
+  with a bias toward <mark>efficient computation</mark> in the following settings:
+    - <mark>generative models</mark><br>
+    - <mark>multimodal learning</mark><br>
+    - <mark>self-supervised learning</mark><br>
+  
+  I aim to apply these concepts to 
+    - <mark>machine vision</mark><br>
+    - <mark>natural language processing (NLP)</mark><br>
+      - <mark>machine translation</mark><br>
+      - <mark>natural language understanding</mark><br>
+      - <mark>question answering</mark><br>
+      - <mark>context extraction</mark><br>
+      - <mark>text generation</mark><br>
+    - <mark>speech processing</mark><br>
+    - <mark>video processing</mark><br>
+      - <mark>generation</mark><br>
+      - <mark>representation</mark><br>
+    
+
+#  ### Academic accomplishments<br>
+#
+#
+#
+#
+#   - <a href="https://github.com/soran-ghaderi/NUSCCF">"<b>A new efficient subspace and K-Means-clustering based method to
+#  improve Collaborative Filtering</b>"</a> was my B.Eng. final thesis, that tries to deal with the <b>High dimensionality</b> and
+#  <b>data sparsity</b> problems in an <b>efficient</b> way which recommender systems are facing. <br>
+#
+#   - Another evident research accomplishment was in bioinformatics, that aimed to <b>predict</b> new correlations between
+#  probiotics and diseases, which resulted in finding several new potential connections between the two.<br>
+#
+#   - Furthermore, I've written a new <b>Python library</b> for researchers working on <b>link prediction</b> in
+#  <b>bipartite graphs</b> named <a href="https://github.com/bi-graph/bigraph"><b>BiGraph</b></a>. Fortunately, the repository on
+#  Github has new contributors and is being updated once in a while. There's also the
+#  <a href="https://bigraph.readthedocs.io/en/latest/intro.html"><b>documentation</b></a> available for the package.
+#  <br>
+#
+#  - Emgraph is a Python library — that I have worked on as a <b>ML engineer</b> — that tries to bring researchers involved in
+#  <b>graph representation learning</b> up to speed.
+#
+#
+#  <br>
+
+#  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#    - Lists
+#    - Tables
+#    - <a href="google.com">Links</a>
+#    - Images
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+
+
+# more content
+more_content: | # this will include new lines to allow paragraphs
+  
+  I'm Soran Ghaderi holding a BEng. in computer software engineering since 2018. My academic passions encompass the
+  cutting-edge research conducted in the fields of machine learning; particularly, methods that are
+  trying to understand and represent the surrounding world optimally.<br>
+
+  During my B.Eng., recommendation systems, and bioinformatics were what I was interested in, along which I engrossed in
+  machine learning and deep learning fields. Those were the impetuses to delve more deeply into the theories.
+  Following the outstanding papers and research published by the internationally renowned research-labs and
+  tech-companies for the last few years, on the one hand, I have acquired a general idea of the current challenges scientists
+  are facing. On the other hand, having an avid interest in coding and hands-on stuff, I've got an up-to-date knowledge of
+  current technologies used in the field of machine learning, including a couple of frameworks and libraries as
+  well as some of the well-known optimization and high-performance computing techniques.<br>
+  <br>
+#  ### Technical skills<br>
+#
+#  Will be uploaded soon<br>
+#
+#  I'm a bit pressed for time at the moment, however, I will upload more information later on. If you think you'll come
+#  here once in a blue moon and I can help you out in someway, then you can drop me an email or check out my
+#  <a href="https://www.linkedin.com/in/soran-ghaderi/">Linkedin</a>.
+
+#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+#  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Footer
+footer_show_references: true
+
+# Build settings
+#theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+#theme: jekyll-theme-hacker
+
+defaults:
+  - scope:
+      path: _posts
+    values:
+      layout: post
+  - scope:
+      path: _pages
+    values:
+      layout: page
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+
+exclude: [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+]
+
