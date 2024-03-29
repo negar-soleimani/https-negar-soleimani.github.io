@@ -1,13 +1,13 @@
 # Authors
 
 authors:
-  soran:
-    name: Soran
-    display_name: Soran Ghaderi
+  negar:
+    name: Negar
+    display_name: Negar Soleimani
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: soran.gdr.cs@gmail.com
-    web: https://www.soran-ghadri.github.io
-    twitter: https://twitter.com/soranghadri
+    email: negarsoleimani76@gmail.com
+    web: https://negar-soleimani.github.io
+    #twitter: https://twitter.com/soranghadri
     description: "Writes about current research in machine learning."
 
 #  john:
