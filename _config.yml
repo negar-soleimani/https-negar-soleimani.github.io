@@ -81,19 +81,7 @@ about_content: | # this will include new lines to allow paragraphs
   learning techniques, graphical models, and Bayesian approaches.
   
   
-  My ultimate objective is to study the cognitive mechanisms underlying intelligence. Specifically, 
-    - <mark>attention mechanisms</mark><br>
-    - <mark>representation learning</mark><br>
-  with a bias toward <mark>efficient computation</mark> in the following settings:
-    - <mark>generative models</mark><br>
-    - <mark>multimodal learning</mark><br>
-    - <mark>self-supervised learning</mark><br>
-  
-  I aim to apply these concepts to 
-    - <mark>machine vision</mark><br>
-    - <mark>natural language processing (NLP)</mark><br>
-      - <mark>machine translation</mark><br>
-    
+ 
     
 
 
