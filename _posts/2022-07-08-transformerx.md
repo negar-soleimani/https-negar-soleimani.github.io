@@ -16,53 +16,13 @@ comments: false
 
 
 ## Abstract
-#TransformerX is an open-source Python library that provides a user-friendly interface to facilitate the construction 
-of transformer-based models. It is aimed at researchers, students, and professionals seeking to develop, train, and 
-evaluate transformers with ease. The library supports a range of transformer models, including the original 
-Transformer among others. The development team is 
-#committed to continually enhancing the library's functionality, regularly adding new features and improvements to 
-meet the needs of the research community. TransformerX seamlessly integrates with Tensorflow and will soon offer 
-support for Pytorch and JAX. The library's documentation is extensive, featuring tutorials, examples, and technical 
-details to assist users in understanding and effectively utilizing its capabilities.
+The aim of this study is to investigate the predictive role of biochemical, environmental, and psychological factors in the occurrence of metabolic components in the employees of Gol Gohar Mining and Industrial Company using machine learning methods and growth models. In phase 1, after cleaning the available data in the sections of clinical tests, occupational hazards, symptoms, lung function assessment, audiometry, and visual acuity assessment, the information of employees during the years 1395 to 1399 for all individuals as well as fixed individuals in these years has been descriptively analyzed and statistically examined. Also, correlation between the required sections has been established and based on the obtained information, factors influencing employees' health can be identified. In phase 2, to discover the relationship between various factors, the available information is longitudinally analyzed and examined.
 
 ---------------
 
-## Features
-
-<ul>
-  <li><strong>Support CPU/GPU (CUDA cores):</strong> TransformerX is capable of running on both CPUs and GPUs with CUDA cores, making it a flexible choice for users with different hardware configurations.</li>
-  <li><strong>Standard API:</strong> TransformerX adheres to a standard API, making it compatible with other libraries and frameworks that follow the same API. This facilitates ease of use and integration with existing workflows.</li>
-  <li><strong>Well documented:</strong> TransformerX is extensively documented, featuring detailed documentation, tutorials, and examples to aid users in understanding and utilizing its functionality. This makes it easy for users to get started with the library and use it effectively.</li>
-  <li><strong>Test driven development:</strong> TransformerX employs test driven development practices to ensure that the library is robust.</li>
-  <li><strong>Support for Tensorflow 2 and other deep learning frameworks:</strong> TransformerX supports a range of deep learning frameworks, including Tensorflow 2, making it adaptable to a variety of use cases.</li>
-  <li><strong>Open source:</strong> TransformerX is an open-source library, which means that it is free to use and can be accessed and modified by anyone. This makes it a collaborative effort and allows for community-driven development.</li>
-  <li><strong>Customizable layers:</strong> It allows users to easily modify and customize the layers within transformer models to suit their specific needs. This gives users greater flexibility in their model design and can result in improved performance.</li>
-</ul>
-
----------------
-
-
-## Tech stack and contributions
-
-<ul>
-    <li>TensorFlow 2</li>
-    <li>Numpy</li>
-    <li>driven development (TDD)</li>
-    <li>PyTest</li>
-    <li>Sphinx</li>
-    <li>Python</li>
-
-</ul>
-
-----------------
-
-## Installation
-<pre>$ pip install transformerx</pre>
-
-<br> 
 
 ## Keywords
-Deep-learning, Machine-learning, Transformers, Attention mechanisms, Algorithms, python library, TransformerX
+Machine-learning, Classification, Prediction, clinical tests
 
 [//]: # (I am holding a B.Eng. in computer eng. since 2018 and trying to learn new stuff in the mentioned areas whenever I have free time.)
 [//]: # (During the past few years I've been working on different projects both in the industry and opensource.<br>)
