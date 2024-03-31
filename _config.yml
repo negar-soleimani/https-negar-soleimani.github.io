@@ -81,66 +81,22 @@ about_content: | # this will include new lines to allow paragraphs
   learning techniques, graphical models, and Bayesian approaches.
   
   
-  #My ultimate objective is to study the cognitive mechanisms underlying intelligence. Specifically, 
-  #  - <mark>attention mechanisms</mark><br>
-  #  - <mark>representation learning</mark><br>
-  #with a bias toward <mark>efficient computation</mark> in the following settings:
-  #  - <mark>generative models</mark><br>
-  #  - <mark>multimodal learning</mark><br>
-  #  - <mark>self-supervised learning</mark><br>
+  My ultimate objective is to study the cognitive mechanisms underlying intelligence. Specifically, 
+    - <mark>attention mechanisms</mark><br>
+    - <mark>representation learning</mark><br>
+  with a bias toward <mark>efficient computation</mark> in the following settings:
+    - <mark>generative models</mark><br>
+    - <mark>multimodal learning</mark><br>
+    - <mark>self-supervised learning</mark><br>
   
-  #I aim to apply these concepts to 
-  #  - <mark>machine vision</mark><br>
-  #  - <mark>natural language processing (NLP)</mark><br>
-  #    - <mark>machine translation</mark><br>
+  I aim to apply these concepts to 
+    - <mark>machine vision</mark><br>
+    - <mark>natural language processing (NLP)</mark><br>
+      - <mark>machine translation</mark><br>
     
     
 
-#  ### Academic accomplishments<br>
-#
-#
-#
-#
-#   - <a href="https://github.com/soran-ghaderi/NUSCCF">"<b>A new efficient subspace and K-Means-clustering based method to
-#  improve Collaborative Filtering</b>"</a> was my B.Eng. final thesis, that tries to deal with the <b>High dimensionality</b> and
-#  <b>data sparsity</b> problems in an <b>efficient</b> way which recommender systems are facing. <br>
-#
-#   - Another evident research accomplishment was in bioinformatics, that aimed to <b>predict</b> new correlations between
-#  probiotics and diseases, which resulted in finding several new potential connections between the two.<br>
-#
-#   - Furthermore, I've written a new <b>Python library</b> for researchers working on <b>link prediction</b> in
-#  <b>bipartite graphs</b> named <a href="https://github.com/bi-graph/bigraph"><b>BiGraph</b></a>. Fortunately, the repository on
-#  Github has new contributors and is being updated once in a while. There's also the
-#  <a href="https://bigraph.readthedocs.io/en/latest/intro.html"><b>documentation</b></a> available for the package.
-#  <br>
-#
-#  - Emgraph is a Python library — that I have worked on as a <b>ML engineer</b> — that tries to bring researchers involved in
-#  <b>graph representation learning</b> up to speed.
-#
-#
-#  <br>
 
-#  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-#    - Lists
-#    - Tables
-#    - <a href="google.com">Links</a>
-#    - Images
-
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
-
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
-
-# Education Section
-education_title: Education #(Use this to override about education section title)
-
-# More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
-
-
-# more content
-more_content: | # this will include new lines to allow paragraphs
   
  # I'm NG holding a BEng. in computer software engineering since 2018. My academic passions encompass the
  # cutting-edge research conducted in the fields of machine learning; particularly, methods that are
