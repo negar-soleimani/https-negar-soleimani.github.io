@@ -72,19 +72,14 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpeg #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  I am a Data Science graduate with a strong passion for research and study, accompanied by a proven track 
-  record of excellent performance. I obtained a Bachelor's degree in Statistics from Razi University in Kermanshah, 
-  where I established a solid foundation in statistics and probability. During my Master's studies at the reputable 
-  Allameh Tabataba'i University in Tehran, I further strengthened my expertise in advanced topics such as Graph Theory, 
-  Bayesian Statistics for high-dimensional data, and Machine Learning. I am eager to leverage data for innovative 
-  solutions and tackle complex challenges across various domains. My expertise lies in statistical methods, machine 
-  learning techniques, graphical models, and Bayesian approaches.
+  I am a Data Science graduate with a strong passion for research and study. I obtained a Bachelor’s degree 
+  in Statistics from Razi University in Kermanshah, where I established a solid foundation in statistics and 
+  probability. During my Master’s studies at the Allameh Tabataba’i University in Tehran, I further strengthened 
+  my expertise in advanced topics such as Graph Theory, Bayesian Statistics for high-dimensional data, and 
+  Machine Learning. I am eager to leverage data for innovative solutions and tackle complex challenges across various 
+  domains. My expertise lies in statistical methods, machine learning techniques, graphical models, and Bayesian 
+  approaches.
   
-  
- 
-    
-
-
   
  # I'm NG holding a BEng. in computer software engineering since 2018. My academic passions encompass the
  # cutting-edge research conducted in the fields of machine learning; particularly, methods that are
