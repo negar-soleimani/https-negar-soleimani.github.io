@@ -23,10 +23,10 @@ repository: https://github.com/negar-soleimani/negar-soleimani.github.io
 
 # Personal info
 name: Negar Soleimani
-title: Master's Student in AI
+title: Master of Science in Data Science
 email: negarsoleimani76@gmail.com
 #phone: Your phone number (optional)
-#website: https://negar-soleimani.github.io
+website: https://negar-soleimani.github.io
 
 
 # Dark Mode (true/false/never)
@@ -54,9 +54,9 @@ additional_links:
   #  icon: fa-kaggle
   #  url: https://www.kaggle.com/negar-soleimani
 
-  - title: Medium
-    icon: fa-medium
-    url: https://negar-soleimani.medium.com/
+  #- title: Medium
+  #  icon: fa-medium
+  #  url: https://negar-soleimani.medium.com/
 
 #- title: another link
 #icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -72,36 +72,28 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpeg #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  I am a Master's student pursuing a specialization in Artificial Intelligence at the University of Essex. 
-  With over three years of hands-on experience, my passion lies in the realm of deep learning and autonomous agents. 
+  I am a Data Science graduate with a strong passion for research and study, accompanied by a proven track 
+  record of excellent performance. I obtained a Bachelor's degree in Statistics from Razi University in Kermanshah, 
+  where I established a solid foundation in statistics and probability. During my Master's studies at the reputable 
+  Allameh Tabataba'i University in Tehran, I further strengthened my expertise in advanced topics such as Graph Theory, 
+  Bayesian Statistics for high-dimensional data, and Machine Learning. I am eager to leverage data for innovative 
+  solutions and tackle complex challenges across various domains. My expertise lies in statistical methods, machine 
+  learning techniques, graphical models, and Bayesian approaches.
   
-  I am eager to explore the potential of attention mechanisms in enhancing the performance of multimodal models in 
-  representation learning, reasoning, and zero-shot learning within uncertain environments.
   
-  Parallel to this, I have actively engaged in freelance work and collaborated with research teams, and have made 
-  contributions to the open-source community.
+  #My ultimate objective is to study the cognitive mechanisms underlying intelligence. Specifically, 
+  #  - <mark>attention mechanisms</mark><br>
+  #  - <mark>representation learning</mark><br>
+  #with a bias toward <mark>efficient computation</mark> in the following settings:
+  #  - <mark>generative models</mark><br>
+  #  - <mark>multimodal learning</mark><br>
+  #  - <mark>self-supervised learning</mark><br>
   
-  
-  My ultimate objective is to study the cognitive mechanisms underlying intelligence. Specifically, 
-    - <mark>attention mechanisms</mark><br>
-    - <mark>representation learning</mark><br>
-  with a bias toward <mark>efficient computation</mark> in the following settings:
-    - <mark>generative models</mark><br>
-    - <mark>multimodal learning</mark><br>
-    - <mark>self-supervised learning</mark><br>
-  
-  I aim to apply these concepts to 
-    - <mark>machine vision</mark><br>
-    - <mark>natural language processing (NLP)</mark><br>
-      - <mark>machine translation</mark><br>
-      - <mark>natural language understanding</mark><br>
-      - <mark>question answering</mark><br>
-      - <mark>context extraction</mark><br>
-      - <mark>text generation</mark><br>
-    - <mark>speech processing</mark><br>
-    - <mark>video processing</mark><br>
-      - <mark>generation</mark><br>
-      - <mark>representation</mark><br>
+  #I aim to apply these concepts to 
+  #  - <mark>machine vision</mark><br>
+  #  - <mark>natural language processing (NLP)</mark><br>
+  #    - <mark>machine translation</mark><br>
+    
     
 
 #  ### Academic accomplishments<br>
@@ -150,18 +142,18 @@ education_title: Education #(Use this to override about education section title)
 # more content
 more_content: | # this will include new lines to allow paragraphs
   
-  I'm NG holding a BEng. in computer software engineering since 2018. My academic passions encompass the
-  cutting-edge research conducted in the fields of machine learning; particularly, methods that are
-  trying to understand and represent the surrounding world optimally.<br>
+ # I'm NG holding a BEng. in computer software engineering since 2018. My academic passions encompass the
+ # cutting-edge research conducted in the fields of machine learning; particularly, methods that are
+ # trying to understand and represent the surrounding world optimally.<br>
 
-  During my B.Eng., recommendation systems, and bioinformatics were what I was interested in, along which I engrossed in
-  machine learning and deep learning fields. Those were the impetuses to delve more deeply into the theories.
-  Following the outstanding papers and research published by the internationally renowned research-labs and
-  tech-companies for the last few years, on the one hand, I have acquired a general idea of the current challenges scientists
-  are facing. On the other hand, having an avid interest in coding and hands-on stuff, I've got an up-to-date knowledge of
-  current technologies used in the field of machine learning, including a couple of frameworks and libraries as
-  well as some of the well-known optimization and high-performance computing techniques.<br>
-  <br>
+ # During my B.Eng., recommendation systems, and bioinformatics were what I was interested in, along which I engrossed in
+ # machine learning and deep learning fields. Those were the impetuses to delve more deeply into the theories.
+ # Following the outstanding papers and research published by the internationally renowned research-labs and
+ # tech-companies for the last few years, on the one hand, I have acquired a general idea of the current challenges scientists
+ # are facing. On the other hand, having an avid interest in coding and hands-on stuff, I've got an up-to-date knowledge of
+ # current technologies used in the field of machine learning, including a couple of frameworks and libraries as
+ # well as some of the well-known optimization and high-performance computing techniques.<br>
+ # <br>
 #  ### Technical skills<br>
 #
 #  Will be uploaded soon<br>
